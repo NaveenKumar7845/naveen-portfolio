@@ -1,0 +1,15 @@
+// app global css in SCSS form
+#q-app {
+  margin: 0 0 var(--header-height) 0;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  /* background-color: var(--body-color); */
+  background-image: repeating-linear-gradient(
+    60deg,
+    var(--background-image-color1),
+    var(--background-image-color2),
+    var(--background-image-color1) 5px
+  );
+  color: var(--text-color);
+  overflow-x: hidden;
+}

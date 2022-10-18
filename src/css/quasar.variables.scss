@@ -1,0 +1,66 @@
+// Quasar SCSS (& Sass) Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass/SCSS variables found in Quasar's source Sass/SCSS files.
+
+// Check documentation for full list of Quasar variables
+
+// Your own variables (that are declared here) and Quasar's own
+// ones will be available out of the box in your .vue/.scss/.sass files
+
+// It's highly recommended to change the default colors
+// to match your app's branding.
+// Tip: Use the "Theme Builder" on Quasar's documentation website.
+
+$primary: #c8fa00;
+$secondary: #26a69a;
+$accent: #9c27b0;
+
+$dark: #1d1d1d;
+$dark-page: #121212;
+
+$positive: #21ba45;
+$negative: #c10015;
+$info: #31ccec;
+$warning: #f2c037;
+$background-image-color1: hsl(0, 0%, 0%);
+$background-image-color2: hsl(0, 0%, 7%);
+$header-height: 3rem;
+$hue-color: 0;
+$hue-dark-color: 0;
+$hue-dark-text-color: 47;
+$first-color: hsl($hue-dark-text-color, 95%, 56%);
+$first-color-second: hsl($hue-dark-text-color, 30%, 8%);
+$first-color-alt: hsl($hue-dark-text-color, 57%, 53%);
+$first-color-lighter: hsl($hue-dark-text-color, 92%, 85%);
+$title-color: hsl($hue-dark-text-color, 8%, 95%);
+$text-color: hsl($hue-dark-text-color, 8%, 75%);
+$text-color-light: hsl($hue-dark-text-color, 8%, 65%);
+$input-color: hsl($hue-dark-text-color, 70%, 16%);
+$body-color: hsl($hue-dark-color, 0%, 0%);
+$container-color: hsl($hue-dark-text-color, 29%, 16%);
+$scroll-bar-color: hsl($hue-dark-text-color, 12%, 48%);
+$scroll-thumb-color: hsl($hue-dark-text-color, 12%, 36%);
+$background-image-color1: hsl(0, 0%, 0%);
+$background-image-color2: hsl(0, 0%, 7%);
+$body-font: 'Poppins', sans-serif;
+$big-font-size: 2rem;
+$h1-font-size: 1.5rem;
+$h2-font-size: 1.25rem;
+$h3-font-size: 1.125rem;
+$normal-font-size: 0.938rem;
+$small-font-size: 0.813rem;
+$smaller-font-size: 0.75rem;
+$font-medium: 500;
+$font-semi-bold: 600;
+$mb-0-25: 0.25rem;
+$mb-0-5: 0.5rem;
+$mb-0-75: 0.75rem;
+$mb-1: 1rem;
+$mb-1-5: 1.5rem;
+$mb-2: 2rem;
+$mb-2-5: 2.5rem;
+$mb-3: 3rem;
+$z-tooltip: 10;
+$z-fixed: 100;
+$z-modal: 1000;
