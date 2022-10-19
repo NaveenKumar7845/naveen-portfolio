@@ -123,7 +123,7 @@ export default defineComponent({
   setup() {
     return {
       lorem:
-        'Innovative Front End Developer with 4 years experience building and maintaining responsive websites in the recruiting industry. Proficient in HTML, CSS, JavaScript, Angular, Quasar and VueJs, plus modern libraries and frameworks. Passionate about usability and possess working knowledge of AI and Chatbots with a little experience in DialogFlow.',
+        'Innovative Front End Developer with 4 years experience building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript, Angular, Quasar and VueJs, plus modern libraries and frameworks. Passionate about usability and possess working knowledge of AI and Chatbots with a little experience in DialogFlow.',
     };
   },
 });

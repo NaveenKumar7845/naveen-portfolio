@@ -36,7 +36,8 @@
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-vue": "^9.0.0",
     "prettier": "^2.5.1",
-    "push-dir": "^0.4.1"
+    "push-dir": "^0.4.1",
+    "workbox-webpack-plugin": "^6.5.4"
   },
   "browserslist": [
     "last 10 Chrome versions",
