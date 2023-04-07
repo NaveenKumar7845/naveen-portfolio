@@ -154,27 +154,27 @@ const linksList = [
   {
     title: 'Home',
     icon: 'home',
-    link: '',
+    link: 'home',
   },
   {
     title: 'About',
     icon: 'fa-solid fa-address-card',
-    link: '',
+    link: 'about',
   },
   {
     title: 'Skills',
     icon: 'fa-solid fa-computer',
-    link: '',
+    link: 'skills',
   },
   {
     title: 'Services',
     icon: 'record_voice_over',
-    link: 'fa-duotone fa-suitcase"',
+    link: 'services"',
   },
   {
     title: 'Contact',
     icon: 'fa-regular fa-id-badge',
-    link: '',
+    link: 'contact',
   },
 ];
 
