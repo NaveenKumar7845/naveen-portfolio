@@ -56,7 +56,7 @@
                 <q-badge
                   color="transparent"
                   text-color="black"
-                  label="HTML-80%"
+                  label="CSS-80%"
                 />
               </div>
             </q-linear-progress>
@@ -150,7 +150,7 @@
                 <q-badge
                   color="transparent"
                   text-color="black"
-                  label="Jirar-70%"
+                  label="Jira-70%"
                 />
               </div>
             </q-linear-progress>
