@@ -18,6 +18,4 @@ steps:
 - script: |
     npm install
     quasar build -m pwa- task: SonarQubePublish@5
-  inputs:
-    pollingTimeoutSec: '300'
   displayName: 'npm install and build'
