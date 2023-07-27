@@ -17,5 +17,6 @@ steps:
 
 - script: |
     npm install
+    npm install -g @quasar/cli
     quasar build -m pwa- task: SonarQubePublish@5
   displayName: 'npm install and build'
