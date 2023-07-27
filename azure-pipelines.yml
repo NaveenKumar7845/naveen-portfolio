@@ -20,6 +20,4 @@ steps:
     npm install @quasar/cli
     quasar build -m pwa
   displayName: 'npm install and build'
-- task: SonarQubeAnalyze@5
-  inputs:
-    jdkversion: 'JAVA_HOME_11_X64'
+
